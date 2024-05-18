@@ -38,3 +38,14 @@ pip3 install flask
 
 [Tutorial:](https://www.codewithharry.com/blogpost/using-tailwind-with-flask/)
 
+**INICIANDO UM NOVO PROJETO A PARTIR DE UM CLONE DESTE NO GITHUB**
+
+Em breve!
+
+**CONSIDERAÇÕES FINAIS**
+
+Será necessário manter dois terminais rodando, sendo um o ambiente virtual, e outro com o node:
+
+...
+npx tailwindcss -i ./static/css/input.css -o ./static/css/output.css --watch
+...
